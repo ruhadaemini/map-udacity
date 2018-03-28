@@ -1,11 +1,6 @@
-# Neighborhood Map
+# Neighborhood Map For Udacity Nanodegree
 
 > Ruhada Emini
-
-## About
-
-This is the project for the Udacity Full Stack Nanodegree. The Neighborhood Map project is about developing a single page application with the KnockoutJS framework and various API's like Google Map API and ForSquare API. KnockoutJS allows the project to be organized with the MVM pattern.
-
 
 ## Skills used for this project
 - JavaScript
